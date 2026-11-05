@@ -13,21 +13,11 @@ Olist needs to understand its customer base, identify repeat customers, detect i
 
 ## Tools Used
 
-- Python (pandas)
+- Python (pandas, numpy, matplotlib)
 - SQL
 - Power BI
 - Power Query
 - GitHub
-
-## Project Workflow
-
-```text
-Raw Olist data
-→ Python data cleaning
-→ SQL analysis
-→ Power BI dashboard
-→ GitHub documentation
-```
 
 ## Dataset
 
